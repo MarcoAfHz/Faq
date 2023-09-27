@@ -1,0 +1,9 @@
+Buenas para el acceso a la página necesitas saber estas cuentas:
+
+ADMIN: 
+Usuario: ADMIN12
+Contrasena: ADMIN
+
+USUARIO:
+Usuario: MARCO13
+Contrasena: 1234
